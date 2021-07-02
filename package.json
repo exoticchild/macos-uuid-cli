@@ -1,0 +1,15 @@
+{
+    "name": "macos-uuid-cli",
+    "version": "1.0.0",
+    "description": "Returns the uuid of a mac machine through a CLI",
+    "main": "./bin/index.js",
+    "bin": {
+        "uuid": "./bin/index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
